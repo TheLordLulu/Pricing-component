@@ -1,0 +1,74 @@
+body {
+  background: linear-gradient(
+    135deg,
+    rgb(60, 137, 226),
+    #9078e4,
+    #3eaac2,
+    rgb(36, 110, 194)
+  );
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* .App {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 100%;
+  gap: 16px;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 100%;
+}
+
+@media (min-width: 1280px) {
+  .App-header {
+    justify-content: space-between;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+}
+
+.Toggle {
+  width: 100%;
+}
+
+.Card {
+  background: whitesmoke;
+  max-width: 400px;
+  width: 100%;
+  margin: 10em auto;
+  border-radius: 15px;
+  padding: 25px ;
+  color: black;
+  border: none;
+  text-align: center;
+  transition: all 0.3s ease;
+  flex: 1 1 calc(25% - 12px);
+  font-size: medium;
+  min-height: 200px;
+  max-height: 400px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+  
+}
+
+.Card:hover {
+  background: rgb(41, 33, 33);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-4px);
+    color: rgb(36, 110, 194);
+} */
